@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://onedrive.gimhoy.com/googledrive/aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xa2Z2SUNJSlJhWTgxZUJ5YXMxc0U3NE54dU9XWkZoVWIvdmlldz91c3A9c2hhcmluZw==.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaVRnOE5zR09TMFZtUzV5U3lrRTBkcHJRWlN3P2U9Q0tsNUJo.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+					<key>bundle-identifier</key>
+					<string>com.ngame.allstar.io</string>
+					<key>bundle-version</key>
+					<string>1.38.1.498061</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>jiejing</string>
+				<key>title</key>
+				<string>123</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
