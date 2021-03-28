@@ -25,15 +25,15 @@
 			<key>metadata</key>
 			<dict>
 					<key>bundle-identifier</key>
-					<string>com.ngame.allstar.io</string>
+					<string>rl.esign.YYYSign.co</string>
 					<key>bundle-version</key>
-					<string>1.38.1.498061</string>
+					<string>3.0.1</string>
 				<key>kind</key>
-				<string>software</string>
+				<string>Editor</string>
 				<key>subtitle</key>
-				<string>jiejing</string>
+				<string>esiiisngn</string>
 				<key>title</key>
-				<string>123</string>
+				<string>sitnsfsecond</string>
 			</dict>
 		</dict>
 	</array>
